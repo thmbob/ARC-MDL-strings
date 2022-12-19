@@ -1,0 +1,9 @@
+{"train": [
+    {"input": ["azerty"], "output": ["ytreza"]},
+    {"input": ["ViCtOiRe"], "output": ["eRiOtCiV"]},
+    {"input": ["Animal"], "output": ["laminA"]}
+    ],
+  "test": [
+    {"input": ["couloir"], "output": ["rioluoc"]}
+    ]
+ }

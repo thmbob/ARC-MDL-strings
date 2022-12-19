@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "Il etait une fois dans un Royaume", "output": "IL ETAIT UNE FOIS DANS UN ROYAUME"},
+    {"input": "Le soleil brille fort", "output": "LE SOLEIL BRILLE FORT"},
+    {"input": "LES CHAUSSETTE de L ARCHIDUCHESSE", "output": "LES CHAUSSETTE DE L ARCHIDUCHESSE"}
+    ],
+  "test": [
+    {"input": "reel", "output": "REEL"}
+    ]
+ }

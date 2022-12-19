@@ -1,0 +1,9 @@
+{"train": [
+    {"input": ["azerty"], "output": ["azerty-ytreza"]},
+    {"input": ["ViC_156"], "output": ["ViC_156-651_CiV"]},
+    {"input": ["m1nera1s"], "output": ["m1nera1s-s1aren1m"]}
+    ],
+  "test": [
+    {"input": ["cou1oir"], "output": ["cou1oir-rio1uoc"]}
+    ]
+ }

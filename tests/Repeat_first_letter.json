@@ -1,0 +1,10 @@
+{"train": [
+    {"input": "entrainement", "output": "eentrainement"},
+    {"input": "Super test", "output": "SSuper test"},
+    {"input": "encore_le_test", "output": "eencore_le_test"},
+    {"input": "clentrainement", "output": "cclentrainement"}
+    ],
+  "test": [
+    {"input": "vraitest", "output": "vvraitest"}
+    ]
+ }

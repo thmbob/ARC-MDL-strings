@@ -1,0 +1,10 @@
+{"train": [
+    {"input": "aaaabbbbccc", "output": "4a4b3c"},
+    {"input": "bbaaaaac", "output": "2b5a1c"},
+    {"input": "cad", "output": "1c1a1d"},
+    {"input": "cbbbfffffffff", "output": "1c3b9f"}
+    ],
+  "test": [
+    {"input": "iiiaaaarr", "output": "3i4a2r"}
+    ]
+ }

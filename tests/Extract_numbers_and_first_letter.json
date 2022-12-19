@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "- aze 145 rt", "output": "-145-"},
+    {"input": ". qsd 995 fm", "output": ".995."},
+    {"input": "/ B 22466 ajjjgtp", "output": "/22466/"}
+    ],
+  "test": [
+    {"input": "! ghhjj 900971 ym", "output": "!900971!"}
+    ]
+ }

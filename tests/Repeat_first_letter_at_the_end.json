@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "Entrainement", "output": "EntrainementE"},
+    {"input": "bonjour", "output": "bonjourb"},
+    {"input": "fin", "output": "finf"}
+    ],
+  "test": [
+    {"input": "test", "output": "testt"}
+    ]
+ }

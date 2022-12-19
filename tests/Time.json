@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "22:56", "output": "22h"},
+    {"input": "8:35am", "output": "8h"},
+    {"input": "10:7:13pm", "output": "22h"}
+    ],
+  "test": [
+    {"input": "11:08:19", "output": "11h"}
+    ]
+ }

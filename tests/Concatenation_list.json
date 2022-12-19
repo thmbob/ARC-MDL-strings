@@ -1,0 +1,10 @@
+{"train": [
+    {"input": "azert56 yui76h lui virage", "output": "azert56yui76hluivirage"},
+    {"input": "Le soleil brille", "output": "Lesoleilbrille"},
+    {"input": "v1n 3r0d3 p4r1s", "output": "v1n3r0d3p4r1s"},
+    {"input": "v1n manager 3r0d3 p4r1s pensee", "output": "v1nmanager3r0d3p4r1spensee"}
+    ],
+  "test": [
+    {"input": "chaleur 100 minerais", "output": "chaleur100minerais"}
+    ]
+ }

@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "azert56 yui76h lui", "output": "azert56yui76hlui"},
+    {"input": "Le soleil brille", "output": "Lesoleilbrille"},
+    {"input": "v1n 3r0d3 p4r1s", "output": "v1n3r0d3p4r1s"}
+    ],
+  "test": [
+    {"input": "chaleur 100 minerais", "output": "chaleur100minerais"}
+    ]
+ }

@@ -1,0 +1,9 @@
+{"train": [
+    {"input": ["azerty"], "output": ["AZERTY"]},
+    {"input": ["ViCtOiRe"], "output": ["VICTOIRE"]},
+    {"input": ["Animal"], "output": ["ANIMAL"]}
+    ],
+  "test": [
+    {"input": ["couloir"], "output": ["COULOIR"]}
+    ]
+ }

@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "aze145rty", "output": "[145]"},
+    {"input": "qsd99985fghjklm", "output": "[99985]"},
+    {"input": "B22466ajjjgtp", "output": "[22466]"}
+    ],
+  "test": [
+    {"input": "ghhjj900971ym", "output": "[900971]"}
+    ]
+ }

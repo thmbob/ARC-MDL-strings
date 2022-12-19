@@ -1,0 +1,9 @@
+{"train": [
+   {"input": "George Raymond Richard Martin", "output": "GRR Martin"},
+   {"input": "John Ronald Reuel Tolkien", "output": "JRR Tolkien"},
+   {"input": "Herbert George Wells", "output": "HG Wells"}
+   ],
+ "test": [
+   {"input": "Harry Andrew Johnson", "output": "HA Johnson"}
+   ]
+}

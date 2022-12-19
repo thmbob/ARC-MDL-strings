@@ -1,0 +1,10 @@
+{"train": [
+    {"input": "aaabbbbccccddeeettttt", "output": "4,4,3"},
+    {"input": "bbaaaaac", "output": "2,5,1"},
+    {"input": "rrriiiiijjjjkkklllllmm", "output": "1,1,1"},
+    {"input": "cbbbooofffffffff", "output": "1,3,9"}
+    ],
+  "test": [
+    {"input": "iiiaaavvvaaarr", "output": "3,4,2"}
+    ]
+ }

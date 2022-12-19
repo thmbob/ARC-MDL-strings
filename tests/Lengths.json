@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "azerty", "output": "6"},
+    {"input": "qsdfghjklm", "output": "10"},
+    {"input": "Bajjjgtp", "output": "8"}
+    ],
+  "test": [
+    {"input": "ghhjjym", "output": "7"}
+    ]
+ }

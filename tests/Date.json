@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "22/4/2001", "output": "avr"},
+    {"input": "17-03-2000", "output": "mar"},
+    {"input": "5-jan-1678", "output": "jan"}
+    ],
+  "test": [
+    {"input": "30-dec-19", "output": "dec"}
+    ]
+ }
