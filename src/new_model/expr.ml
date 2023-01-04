@@ -58,7 +58,7 @@ let list_of_value : value -> (value list) result = function
   | `List l -> Result.Ok (List.map (fun x -> x) l) 
   | _ -> Result.Error (Invalid_argument "Expr.string_list_of_value")
 
-let regex_date = Str.regexp {|[0-3]?[0-9]\(/\|-\|\.\)\(\([0-1]?[0-9]\)\|\(jan\)\|\(fev\)\|\(mar\)\|\(avr\)\|\(jun\)\|\(jul\)\|\(aou\)\|\(oct\)\|\(nov\)\|\(dec\)\)\(/\|-\|\.\)-?[0-9]?[0-9]?[0-9]?[0-9]|}
+let regex_date = Str.regexp {|\([0-3]?[0-9]\(/\|-\|\.\)\(\([0-1]?[0-9]\)\|\(jan\)\|\(fev\)\|\(mar\)\|\(avr\)\|\(jun\)\|\(jul\)\|\(aou\)\|\(oct\)\|\(nov\)\|\(dec\)\)\(/\|-\|\.\)-?[0-9]?[0-9]?[0-9]?[0-9]\)\|\(-?[0-9]?[0-9]?[0-9]?[0-9]\(/\|-\|\.\)\(\([0-1]?[0-9]\)\|\(jan\)\|\(fev\)\|\(mar\)\|\(avr\)\|\(jun\)\|\(jul\)\|\(aou\)\|\(oct\)\|\(nov\)\|\(dec\)\)\(/\|-\|\.\)[0-3]?[0-9]\)|}
 let regex_time = Str.regexp {|\(\(\([0-1]?[0-9]\)\|\(2[0-3]\)\):[0-5]?[0-9]\(:[0-5]?[0-9]\)?\)\|\(\(\(0?[0-9]\)\|\(1[0-2]\)\):[0-5]?[0-9]\(:[0-5]?[0-9]\)?\(\(pm\)\|\(am\)\)\)|}
 
 (* functions *)
