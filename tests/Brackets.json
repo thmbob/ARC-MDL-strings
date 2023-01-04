@@ -1,9 +1,0 @@
-{"train": [
-    {"input": "(a)[a]", "output": "(a)"},
-    {"input": "{b}{b}", "output": "{b}"},
-    {"input": "<c>[e]", "output": "<c>"}
-    ],
-  "test": [
-    {"input": "[e](e)", "output": "[e]"}
-    ]
- }

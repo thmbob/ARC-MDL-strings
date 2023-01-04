@@ -1,0 +1,6 @@
+{"train": [
+    {"input": "International Business Machines", "output": "IBM"},
+    {"input": "Principles Of Programming Languages", "output": "POPL"},
+    {"input": "International Conference on Software Engineering", "output": "ICSE"}],
+ "test": []}
+

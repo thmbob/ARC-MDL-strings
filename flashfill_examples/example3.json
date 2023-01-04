@@ -1,0 +1,4 @@
+{"train": [
+    {"input": "Company\\Code\\index.html", "output": "Company\\Code\\"},
+    {"input": "Company\\Docs\\Spec\\specs.doc", "output": "Company\\Docs\\Spec\\"}],
+ "test": []}

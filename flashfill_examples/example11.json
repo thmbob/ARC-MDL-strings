@@ -1,0 +1,6 @@
+{"train": [
+    {"input": ["Otis", "Daniels"], "output": "Otis, D."},
+    {"input": ["Kimberly", "Jones"], "output": "Kimberley, J."},
+    {"input": ["Mary", "Leslie"], "output": "Mary, L."}],
+ "test": []}
+

@@ -1,0 +1,7 @@
+{"train": [
+    {"input": ["Alex", "Asst."], "output": "Alex(Asst.)"},
+    {"input": ["Jim", "Manager"], "output": "Jim(Manager)"},
+    {"input": ["Ryan", ""], "output": ""},
+    {"input": ["", "Asst."], "output": ""}],
+ "test": []}
+

@@ -1,0 +1,7 @@
+{"train": [
+    {"input": "BTR KRNL WK CORN 15Z", "output": "15Z"},
+    {"input": "CAMP DRY DBL NDL 3.6 OZ", "output": "3.6 OZ"},
+    {"input": "CHORE BOY HD SC SPNG 1 PK", "output": "1 PK"},
+    {"input": "FRENCH WORCESTERSHIRE 5 Z", "output": "5 Z"},
+    {"input": "O F TOMATO PASTE 6 OZ", "output": "6 OZ"}],
+ "test": []}

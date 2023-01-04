@@ -1,0 +1,9 @@
+{"train": [
+    {"input": "13/12/2021 15/08/667 01/7/-52", "output": "dec aou jul"},
+    {"input": "1/3/2 15/oct/667 24/12/2022", "output": "mar oct dec"},
+    {"input": "09/nov/1111 28/2/-1789 01/avr/-502 8/2/1890", "output": "nov fev avr fev"}
+    ],
+  "test": [
+    {"input": "06/06/06", "output": "jun"}
+    ]
+ }

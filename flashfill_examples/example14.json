@@ -1,0 +1,4 @@
+{"train": [
+    {"input": "Alpha 10 Beta 20 Charlie 30 Delta", "output": "10+20+30"},
+    {"input": "POPL 9 CAV 7 PLDI 6 ESOP 4", "output": "9+7+6+4"}],
+ "test": []}

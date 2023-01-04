@@ -1,0 +1,8 @@
+{"train": [
+    {"input": "Dr. Eran Yahav", "output": "Yahav, E."},
+    {"input": "Prof. Kathleen S. Fisher", "output": "Fisher, K."},
+    {"input": "Bill Gates, Sr.", "output": "Gates, B."},
+    {"input": "George Ciprian Necula", "output": "Necula, G."},
+    {"input": "Ken McMillan, II", "output": "McMillan, K."}],
+ "test": []}
+

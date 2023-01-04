@@ -1,0 +1,5 @@
+{"train": [
+    {"input": "  Oege   de   Moor   ", "output": "Oege de Moor"},
+    {"input": "Kathleen   Fisher   AT&T Labs ", "output": "Kathleen Fisher AT&T Labs"}],
+ "test": []}
+

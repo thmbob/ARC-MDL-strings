@@ -1,0 +1,9 @@
+{"train": [
+    {"input": ["/um/people/sumitg/pictures/lake-tahoe/index.html", "192"], "output": "192"},
+    {"input": ["/um/people/sumitg/index.html", "104"], "output": "0"},
+    {"input": ["/um/people/sumitg/pubs/speed.html", "16"], "output": "0"},
+    {"input": ["/um/people/sumitg/pubs/popl10 synthesis.pdf", "13"], "output": "0"},
+    {"input": ["/um/people/sumitg/pictures/verona/index.html", "7"], "output": "7"},
+    {"input": ["/um/people/sumitg/pictures/kerela/target21.html", "3"], "output": "3"}],
+ "test": []}
+

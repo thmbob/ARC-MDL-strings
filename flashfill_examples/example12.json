@@ -1,0 +1,4 @@
+{"train": [
+    {"input": ["Albania", "355"], "output": "case 355: return \"Albania\";"},
+    {"input": ["Algeria", "213"], "output": "case 213: return \"Algeria\";"}],
+ "test": []}

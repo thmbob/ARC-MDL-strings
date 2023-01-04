@@ -126,7 +126,7 @@ module Funct =
                             | "oct" -> 10, next_char + 4
                             | "nov" -> 11, next_char + 4
                             | "dec" -> 12, next_char + 4
-                            | _ -> failwith "invalid date")
+                            | _ -> failwith "invalid month in date")
                  | Some i -> i, next_char+2)
       | Some i -> i, next_char+3 in
       Printf.printf "m:%d, nxt_chr:%d\n" m next_char;
@@ -146,12 +146,13 @@ module Funct =
       | 4 -> "avr"
       | 5 -> "mai"
       | 6 -> "jun"
-      | 8 -> "jul"
+      | 7 -> "jul"
+      | 8 -> "aou"
       | 9 -> "sep"
       | 10 -> "oct"
       | 11 -> "nov"
       | 12 -> "dec"
-      | _ -> failwith "invalid date"
+      | _ -> failwith "invalid month in date"
     let get_year (date : int*int*int) : int =
       let _,_,y = date in y
     let time_of_string (s : string) : int*int*int =
